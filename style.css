@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.hidden {
+  display: none;
+}
+
+#main-screen,
+#click-screen,
+#end-screen {
+  height: 100%;
+  width: 100%;
+}
+  
+#green {
+  background-color: green;
+}
+
+#red {
+  background-color: red;
+}
+
+
